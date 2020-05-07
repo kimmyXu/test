@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试 generateAnotherConfig 函数 1`] = `
+Object {
+  "domain": "localhost",
+  "port": 80811,
+  "server": "http://aaa.com",
+  "time": Any<Date>,
+}
+`;
+
+exports[`测试 generateConfig 函数 1`] = `
+Object {
+  "domain": "localhost",
+  "port": 80812,
+  "server": "http://aaa.com",
+  "time": Any<Date>,
+}
+`;
